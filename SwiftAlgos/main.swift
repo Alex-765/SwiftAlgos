@@ -7,4 +7,8 @@
 
 import Foundation
 
-print("Initial Commit")
+class SortingAlgorithms{
+    func bubblesort(data: [Int]) -> [Int]{
+        return data
+    }
+}
