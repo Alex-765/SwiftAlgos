@@ -9,6 +9,9 @@
 /* Begin PBXBuildFile section */
 		60546379292CD73100966863 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60546378292CD73100966863 /* main.swift */; };
 		60546386292CD91900966863 /* Swift_Algorithms_Tests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60546385292CD91900966863 /* Swift_Algorithms_Tests.swift */; };
+		60E9746E292E1D21006650C1 /* main.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60546378292CD73100966863 /* main.swift */; };
+		60E97470292E1D7D006650C1 /* SwiftAlgos1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E9746F292E1D7D006650C1 /* SwiftAlgos1.swift */; };
+		60E97471292E1D9A006650C1 /* SwiftAlgos1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 60E9746F292E1D7D006650C1 /* SwiftAlgos1.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXCopyFilesBuildPhase section */
@@ -28,6 +31,7 @@
 		60546378292CD73100966863 /* main.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = main.swift; sourceTree = "<group>"; };
 		60546383292CD91900966863 /* Swift Algorithms Tests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Swift Algorithms Tests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		60546385292CD91900966863 /* Swift_Algorithms_Tests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Swift_Algorithms_Tests.swift; sourceTree = "<group>"; };
+		60E9746F292E1D7D006650C1 /* SwiftAlgos1.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SwiftAlgos1.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -70,6 +74,7 @@
 			isa = PBXGroup;
 			children = (
 				60546378292CD73100966863 /* main.swift */,
+				60E9746F292E1D7D006650C1 /* SwiftAlgos1.swift */,
 			);
 			path = SwiftAlgos;
 			sourceTree = "<group>";
@@ -171,6 +176,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60E97470292E1D7D006650C1 /* SwiftAlgos1.swift in Sources */,
 				60546379292CD73100966863 /* main.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -179,6 +185,8 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				60E97471292E1D9A006650C1 /* SwiftAlgos1.swift in Sources */,
+				60E9746E292E1D21006650C1 /* main.swift in Sources */,
 				60546386292CD91900966863 /* Swift_Algorithms_Tests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -7,8 +7,4 @@
 
 import Foundation
 
-class SortingAlgorithms{
-    func bubblesort(data: [Int]) -> [Int]{
-        return data
-    }
-}
+
